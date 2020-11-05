@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQe9Hcg4QoXtcerO2teBj1uLWDsbe6XP1fynz4Q4YYzuwEOQu6Y1KclsTa/+jAvUf8TX0p4viq3dLyHvV30QQw==",
+  "success": true,
+  "projectFilePath": "C:\\PCF Control\\PCFTranslationFields\\PCFTranslationFields.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frup43985\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\0.4.3\\microsoft.powerapps.msbuild.pcf.0.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

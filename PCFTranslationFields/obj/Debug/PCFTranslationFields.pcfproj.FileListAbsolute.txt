@@ -1,0 +1,2 @@
+C:\PCF Control\PCFTranslationFields\obj\Debug\PCFTranslationFields.pcfprojAssemblyReference.cache
+C:\PCF Control\PCFTranslationFields\obj\Debug\PCFTranslationFields.pcfproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <control namespace="PCFTranslationFields" constructor="PCFTranslationFields" version="2.0.0" display-name-key="TextToTranslate" description-key="FieldTranslation" control-type="standard">
+    <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
+    <property name="TextToTranslate" display-name-key="TextToTranslate" description-key="TextToTranslate" of-type="SingleLine.Text" usage="bound" required="true" default-value="True:True;False:False" />
+    <resources>
+      <code path="index.ts" order="1" />
+      <!--<css path="css/PCFTranslationFields.css" order="1" />-->
+      <!-- <resx path="strings/PCFTranslationFields.1033.resx" version="1.0.0" /> -->
+      <css path="PCFTranslationFields.css" order="1" />
+      <css path="PCFcomponent.css" order="2" />
+      <img path="translate.png" />
+    </resources>
+  </control>
+</manifest>
