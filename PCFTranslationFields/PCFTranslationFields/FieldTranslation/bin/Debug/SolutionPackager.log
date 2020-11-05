@@ -1,0 +1,18 @@
+2020-10-28 23:24:50.133 - Info	
+Packing C:\PCF Control\PCFTranslationFields\PCFTranslationFields\FieldTranslation\obj\Debug\ to bin\Debug\FieldTranslation.zip
+
+2020-10-28 23:24:50.154 - Info	Processing Component: Entities
+2020-10-28 23:24:50.159 - Info	Processing Component: Roles
+2020-10-28 23:24:50.164 - Info	Processing Component: Workflows
+2020-10-28 23:24:50.166 - Info	Processing Component: FieldSecurityProfiles
+2020-10-28 23:24:50.167 - Info	Processing Component: Templates
+2020-10-28 23:24:50.171 - Info	Processing Component: EntityMaps
+2020-10-28 23:24:50.172 - Info	Processing Component: EntityRelationships
+2020-10-28 23:24:50.184 - Info	Processing Component: OrganizationSettings
+2020-10-28 23:24:50.186 - Info	Processing Component: optionsets
+2020-10-28 23:24:50.186 - Info	Processing Component: CustomControls
+2020-10-28 23:24:50.206 - Info	 - PCFTranslationFields.PCFTranslationFields
+2020-10-28 23:24:50.217 - Info	Processing Component: EntityDataProviders
+2020-10-28 23:24:50.270 - Info	
+Managed Pack complete.
+
